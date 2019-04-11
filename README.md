@@ -1,6 +1,6 @@
 # draggable-rotate-image
 
-##usage
+## usage
 
 Add this...
 
